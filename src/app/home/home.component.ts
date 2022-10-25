@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { labels } from '../labels/labels.component';
 
 @Component({
   selector: 'app-home',
