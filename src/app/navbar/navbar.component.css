@@ -1,0 +1,36 @@
+div .breadcrumb{
+color: red;
+text-align: right;
+text-align-last: center;
+align-items: center;
+padding-left: 35rem;
+}
+
+.breadcrumb-item{
+    font-style: oblique;
+    text-overflow: clip;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+}
+
+.container-fluid{
+    color: yellow;
+    background-color: yellow;
+    padding: 10px;
+    align-items: center;
+}
+
+.btn {
+    text-align: center;
+ 
+    max-width: 20rem;
+    margin-left: 42rem;
+}
+.New{
+    background-color: black;
+}
+
+.table1{
+    padding: 10px;
+}
